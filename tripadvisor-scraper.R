@@ -3,7 +3,7 @@
 # https://martinctc.github.io/blog/vignette-scraping-amazon-reviews-in-r/
 # https://www.cahoover.com/blog/marketing-analytics/scraping-tripadvisor-reviews-using-r/
 
-# load packges
+# load packages
 library(RSelenium)
 library(tidyverse)
 library(netstat)
